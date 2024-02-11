@@ -1,0 +1,1001 @@
+id,BusDriver,BusRoute,BusColor,BusType,BusTimings
+1,Sarah,Route 3,Green,Single deck,Afternoon
+2,Sarah,Route 3,Yellow,Articulated,Evening
+3,Sarah,Route 1,Green,Single deck,Morning
+4,Karen,Route 2,Blue,Mini bus,Morning
+5,Michael,Route 4,Yellow,Articulated,Afternoon
+6,Sarah,Route 2,Orange,Articulated,Afternoon
+7,John,Route 4,Yellow,Articulated,Evening
+8,David,Route 1,Blue,Mini bus,Evening
+9,John,Route 1,Orange,Mini bus,Evening
+10,John,Route 4,Red,Mini bus,Afternoon
+11,Sarah,Route 2,Green,Single deck,Evening
+12,John,Route 1,Blue,Mini bus,Afternoon
+13,Michael,Route 1,Orange,Articulated,Evening
+14,Karen,Route 5,Yellow,Double deck,Afternoon
+15,Karen,Route 3,Green,Double deck,Morning
+16,Sarah,Route 4,Blue,Articulated,Morning
+17,John,Route 3,Green,Double deck,Afternoon
+18,Karen,Route 2,Green,Double deck,Morning
+19,John,Route 5,Yellow,Double deck,Afternoon
+20,Michael,Route 4,Orange,Mini bus,Evening
+21,Michael,Route 2,Green,Articulated,Evening
+22,Karen,Route 4,Green,Single deck,Evening
+23,Michael,Route 4,Red,Double deck,Afternoon
+24,David,Route 4,Blue,Double deck,Evening
+25,Sarah,Route 3,Yellow,Single deck,Evening
+26,Karen,Route 1,Blue,Single deck,Morning
+27,Michael,Route 5,Yellow,Articulated,Afternoon
+28,John,Route 1,Blue,Mini bus,Morning
+29,Karen,Route 5,Green,Mini bus,Morning
+30,John,Route 4,Green,Single deck,Evening
+31,Karen,Route 5,Yellow,Double deck,Evening
+32,Michael,Route 2,Red,Single deck,Morning
+33,Karen,Route 2,Green,Double deck,Afternoon
+34,John,Route 3,Green,Mini bus,Morning
+35,Michael,Route 4,Blue,Mini bus,Afternoon
+36,John,Route 5,Red,Double deck,Morning
+37,Michael,Route 4,Yellow,Mini bus,Afternoon
+38,Karen,Route 2,Orange,Mini bus,Morning
+39,Karen,Route 3,Orange,Double deck,Afternoon
+40,John,Route 4,Blue,Single deck,Evening
+41,Sarah,Route 2,Red,Articulated,Evening
+42,David,Route 1,Yellow,Articulated,Morning
+43,David,Route 3,Orange,Mini bus,Morning
+44,John,Route 4,Orange,Articulated,Morning
+45,Michael,Route 3,Red,Mini bus,Morning
+46,Karen,Route 5,Orange,Articulated,Evening
+47,Sarah,Route 3,Orange,Double deck,Morning
+48,David,Route 1,Green,Mini bus,Evening
+49,David,Route 5,Green,Mini bus,Morning
+50,Michael,Route 3,Green,Mini bus,Morning
+51,David,Route 1,Green,Single deck,Evening
+52,John,Route 2,Blue,Double deck,Morning
+53,John,Route 1,Red,Mini bus,Morning
+54,John,Route 5,Green,Mini bus,Morning
+55,Michael,Route 2,Orange,Double deck,Morning
+56,Michael,Route 3,Orange,Mini bus,Morning
+57,Sarah,Route 3,Blue,Articulated,Evening
+58,John,Route 3,Red,Articulated,Afternoon
+59,Karen,Route 3,Blue,Single deck,Afternoon
+60,Sarah,Route 4,Blue,Double deck,Afternoon
+61,David,Route 1,Green,Mini bus,Evening
+62,Sarah,Route 1,Green,Articulated,Afternoon
+63,David,Route 4,Yellow,Single deck,Afternoon
+64,Michael,Route 4,Yellow,Mini bus,Morning
+65,John,Route 5,Blue,Single deck,Morning
+66,David,Route 4,Red,Single deck,Afternoon
+67,John,Route 1,Blue,Mini bus,Evening
+68,Sarah,Route 3,Green,Single deck,Evening
+69,David,Route 1,Orange,Single deck,Evening
+70,John,Route 4,Blue,Double deck,Afternoon
+71,Sarah,Route 3,Red,Articulated,Morning
+72,Sarah,Route 2,Green,Double deck,Evening
+73,John,Route 5,Red,Articulated,Afternoon
+74,Sarah,Route 5,Green,Mini bus,Afternoon
+75,Michael,Route 3,Orange,Double deck,Afternoon
+76,Karen,Route 5,Yellow,Single deck,Afternoon
+77,David,Route 5,Red,Double deck,Evening
+78,Sarah,Route 3,Green,Single deck,Afternoon
+79,David,Route 1,Red,Single deck,Morning
+80,Sarah,Route 2,Red,Single deck,Morning
+81,David,Route 4,Blue,Double deck,Morning
+82,David,Route 3,Yellow,Double deck,Morning
+83,John,Route 1,Blue,Single deck,Morning
+84,Sarah,Route 4,Red,Articulated,Afternoon
+85,Sarah,Route 5,Red,Mini bus,Morning
+86,John,Route 3,Yellow,Double deck,Evening
+87,Michael,Route 3,Green,Single deck,Evening
+88,Sarah,Route 4,Yellow,Double deck,Evening
+89,John,Route 3,Blue,Single deck,Evening
+90,David,Route 1,Blue,Mini bus,Morning
+91,Michael,Route 4,Yellow,Mini bus,Morning
+92,Karen,Route 5,Red,Double deck,Afternoon
+93,John,Route 5,Yellow,Double deck,Evening
+94,David,Route 3,Yellow,Double deck,Afternoon
+95,Michael,Route 4,Orange,Single deck,Evening
+96,John,Route 4,Green,Double deck,Afternoon
+97,Sarah,Route 4,Red,Articulated,Evening
+98,Sarah,Route 4,Blue,Articulated,Morning
+99,Karen,Route 5,Red,Double deck,Evening
+100,Karen,Route 3,Orange,Single deck,Afternoon
+101,John,Route 5,Yellow,Mini bus,Evening
+102,John,Route 3,Green,Double deck,Evening
+103,Sarah,Route 1,Orange,Articulated,Evening
+104,Michael,Route 3,Orange,Mini bus,Afternoon
+105,Karen,Route 1,Blue,Double deck,Morning
+106,David,Route 2,Orange,Single deck,Afternoon
+107,David,Route 2,Blue,Mini bus,Evening
+108,Michael,Route 2,Red,Single deck,Afternoon
+109,Michael,Route 4,Blue,Single deck,Evening
+110,David,Route 1,Green,Mini bus,Afternoon
+111,Sarah,Route 2,Blue,Articulated,Evening
+112,Karen,Route 1,Green,Articulated,Evening
+113,David,Route 3,Yellow,Articulated,Morning
+114,Michael,Route 1,Blue,Mini bus,Afternoon
+115,David,Route 3,Green,Mini bus,Morning
+116,David,Route 3,Green,Double deck,Evening
+117,Sarah,Route 1,Blue,Double deck,Evening
+118,Michael,Route 2,Orange,Single deck,Afternoon
+119,Karen,Route 3,Green,Double deck,Morning
+120,John,Route 3,Yellow,Mini bus,Evening
+121,David,Route 5,Green,Double deck,Afternoon
+122,Karen,Route 2,Blue,Double deck,Afternoon
+123,Michael,Route 5,Yellow,Mini bus,Evening
+124,Sarah,Route 4,Green,Double deck,Evening
+125,John,Route 5,Green,Single deck,Morning
+126,David,Route 5,Yellow,Mini bus,Evening
+127,John,Route 2,Blue,Single deck,Morning
+128,Karen,Route 5,Green,Articulated,Evening
+129,Sarah,Route 5,Green,Mini bus,Afternoon
+130,Michael,Route 1,Red,Articulated,Morning
+131,John,Route 2,Blue,Articulated,Morning
+132,Karen,Route 1,Red,Single deck,Afternoon
+133,Karen,Route 2,Blue,Double deck,Afternoon
+134,Sarah,Route 4,Green,Articulated,Afternoon
+135,Michael,Route 2,Blue,Articulated,Afternoon
+136,Karen,Route 5,Red,Single deck,Morning
+137,Karen,Route 5,Orange,Mini bus,Morning
+138,Michael,Route 5,Blue,Single deck,Evening
+139,Sarah,Route 2,Yellow,Single deck,Afternoon
+140,John,Route 3,Yellow,Mini bus,Afternoon
+141,David,Route 4,Yellow,Mini bus,Afternoon
+142,John,Route 3,Red,Mini bus,Morning
+143,Sarah,Route 2,Red,Double deck,Afternoon
+144,David,Route 4,Yellow,Single deck,Evening
+145,John,Route 3,Green,Single deck,Evening
+146,Karen,Route 2,Blue,Double deck,Afternoon
+147,Karen,Route 2,Blue,Articulated,Evening
+148,John,Route 1,Yellow,Articulated,Morning
+149,Sarah,Route 1,Orange,Single deck,Morning
+150,Karen,Route 5,Yellow,Double deck,Evening
+151,Karen,Route 5,Red,Double deck,Afternoon
+152,Michael,Route 3,Orange,Articulated,Afternoon
+153,John,Route 4,Orange,Single deck,Evening
+154,Karen,Route 2,Blue,Mini bus,Morning
+155,Sarah,Route 4,Red,Articulated,Evening
+156,Karen,Route 2,Blue,Mini bus,Evening
+157,John,Route 3,Red,Double deck,Morning
+158,Karen,Route 1,Red,Double deck,Morning
+159,Sarah,Route 5,Orange,Double deck,Afternoon
+160,John,Route 5,Green,Double deck,Morning
+161,Michael,Route 3,Green,Mini bus,Afternoon
+162,Michael,Route 2,Orange,Double deck,Evening
+163,Karen,Route 1,Red,Double deck,Morning
+164,Sarah,Route 5,Red,Single deck,Morning
+165,David,Route 1,Blue,Double deck,Morning
+166,John,Route 1,Yellow,Double deck,Evening
+167,Michael,Route 1,Green,Mini bus,Evening
+168,Sarah,Route 1,Orange,Single deck,Evening
+169,Sarah,Route 4,Blue,Single deck,Evening
+170,Karen,Route 4,Green,Articulated,Evening
+171,John,Route 1,Yellow,Single deck,Afternoon
+172,Karen,Route 3,Green,Articulated,Morning
+173,Karen,Route 5,Orange,Double deck,Afternoon
+174,Michael,Route 5,Yellow,Mini bus,Morning
+175,David,Route 2,Orange,Mini bus,Evening
+176,Karen,Route 4,Orange,Articulated,Morning
+177,Michael,Route 4,Blue,Articulated,Evening
+178,Michael,Route 3,Red,Double deck,Evening
+179,John,Route 2,Yellow,Single deck,Morning
+180,Karen,Route 4,Green,Articulated,Morning
+181,David,Route 5,Orange,Double deck,Evening
+182,Sarah,Route 3,Red,Articulated,Morning
+183,Karen,Route 2,Green,Single deck,Morning
+184,Sarah,Route 1,Orange,Mini bus,Afternoon
+185,David,Route 3,Orange,Mini bus,Afternoon
+186,Michael,Route 2,Orange,Single deck,Afternoon
+187,Sarah,Route 4,Yellow,Mini bus,Evening
+188,Michael,Route 2,Green,Articulated,Evening
+189,Karen,Route 2,Red,Mini bus,Afternoon
+190,John,Route 3,Yellow,Articulated,Evening
+191,Sarah,Route 4,Blue,Mini bus,Evening
+192,Karen,Route 3,Blue,Articulated,Evening
+193,Michael,Route 5,Yellow,Articulated,Morning
+194,David,Route 4,Orange,Double deck,Evening
+195,John,Route 4,Red,Mini bus,Afternoon
+196,Michael,Route 1,Red,Mini bus,Morning
+197,Karen,Route 5,Green,Double deck,Morning
+198,Michael,Route 4,Yellow,Single deck,Morning
+199,John,Route 3,Blue,Articulated,Morning
+200,Karen,Route 1,Red,Single deck,Morning
+201,Karen,Route 4,Yellow,Double deck,Afternoon
+202,Sarah,Route 2,Green,Mini bus,Morning
+203,David,Route 3,Yellow,Articulated,Morning
+204,John,Route 4,Orange,Double deck,Morning
+205,Karen,Route 1,Blue,Articulated,Morning
+206,David,Route 1,Green,Double deck,Evening
+207,David,Route 5,Green,Double deck,Morning
+208,John,Route 1,Yellow,Articulated,Afternoon
+209,Michael,Route 1,Blue,Articulated,Afternoon
+210,Sarah,Route 5,Red,Mini bus,Morning
+211,John,Route 2,Orange,Articulated,Evening
+212,David,Route 3,Blue,Double deck,Afternoon
+213,John,Route 5,Yellow,Mini bus,Afternoon
+214,David,Route 3,Red,Articulated,Afternoon
+215,John,Route 2,Orange,Single deck,Afternoon
+216,Karen,Route 5,Yellow,Single deck,Evening
+217,John,Route 1,Green,Mini bus,Evening
+218,Sarah,Route 4,Blue,Mini bus,Morning
+219,Sarah,Route 2,Blue,Articulated,Evening
+220,Sarah,Route 3,Orange,Mini bus,Afternoon
+221,Karen,Route 2,Red,Double deck,Morning
+222,John,Route 1,Yellow,Double deck,Afternoon
+223,Michael,Route 4,Orange,Double deck,Evening
+224,Karen,Route 2,Orange,Single deck,Evening
+225,Karen,Route 3,Green,Single deck,Evening
+226,Michael,Route 5,Blue,Mini bus,Afternoon
+227,Michael,Route 4,Green,Articulated,Morning
+228,Karen,Route 4,Red,Single deck,Morning
+229,John,Route 5,Red,Double deck,Afternoon
+230,John,Route 2,Orange,Articulated,Morning
+231,David,Route 4,Green,Articulated,Afternoon
+232,David,Route 3,Green,Mini bus,Afternoon
+233,Sarah,Route 2,Blue,Double deck,Afternoon
+234,David,Route 3,Blue,Double deck,Morning
+235,Michael,Route 3,Orange,Single deck,Morning
+236,Sarah,Route 3,Blue,Double deck,Afternoon
+237,John,Route 4,Yellow,Double deck,Evening
+238,Michael,Route 5,Green,Articulated,Morning
+239,Sarah,Route 3,Red,Articulated,Evening
+240,Michael,Route 4,Yellow,Double deck,Afternoon
+241,Sarah,Route 1,Orange,Mini bus,Afternoon
+242,Karen,Route 5,Red,Mini bus,Afternoon
+243,Michael,Route 3,Blue,Articulated,Evening
+244,Michael,Route 2,Blue,Mini bus,Afternoon
+245,John,Route 4,Red,Single deck,Afternoon
+246,David,Route 3,Red,Mini bus,Evening
+247,John,Route 2,Blue,Mini bus,Morning
+248,Sarah,Route 3,Blue,Single deck,Morning
+249,Michael,Route 3,Green,Double deck,Morning
+250,Michael,Route 3,Red,Single deck,Afternoon
+251,Michael,Route 1,Orange,Mini bus,Afternoon
+252,David,Route 3,Blue,Mini bus,Evening
+253,John,Route 4,Red,Articulated,Morning
+254,Karen,Route 1,Blue,Articulated,Morning
+255,Karen,Route 1,Red,Articulated,Morning
+256,David,Route 2,Orange,Single deck,Morning
+257,John,Route 5,Orange,Double deck,Afternoon
+258,John,Route 2,Orange,Single deck,Afternoon
+259,Michael,Route 4,Orange,Articulated,Afternoon
+260,Sarah,Route 3,Blue,Double deck,Evening
+261,Karen,Route 2,Red,Single deck,Afternoon
+262,John,Route 2,Blue,Single deck,Evening
+263,Karen,Route 5,Green,Double deck,Afternoon
+264,John,Route 3,Green,Double deck,Evening
+265,Sarah,Route 1,Blue,Double deck,Morning
+266,Karen,Route 5,Yellow,Single deck,Morning
+267,Karen,Route 3,Yellow,Mini bus,Afternoon
+268,Karen,Route 2,Red,Articulated,Evening
+269,Michael,Route 5,Blue,Double deck,Morning
+270,David,Route 1,Green,Mini bus,Morning
+271,Sarah,Route 3,Red,Articulated,Afternoon
+272,David,Route 4,Yellow,Single deck,Evening
+273,Michael,Route 1,Blue,Mini bus,Evening
+274,John,Route 4,Yellow,Double deck,Morning
+275,Karen,Route 5,Green,Articulated,Evening
+276,David,Route 4,Red,Single deck,Morning
+277,Sarah,Route 1,Green,Mini bus,Afternoon
+278,David,Route 4,Blue,Single deck,Morning
+279,David,Route 2,Yellow,Single deck,Evening
+280,David,Route 2,Green,Articulated,Morning
+281,Michael,Route 3,Red,Mini bus,Afternoon
+282,Sarah,Route 3,Red,Double deck,Morning
+283,Sarah,Route 1,Red,Single deck,Evening
+284,Karen,Route 4,Blue,Double deck,Morning
+285,Michael,Route 2,Red,Double deck,Evening
+286,John,Route 2,Yellow,Single deck,Evening
+287,Sarah,Route 2,Blue,Mini bus,Morning
+288,David,Route 4,Green,Mini bus,Afternoon
+289,Karen,Route 1,Green,Mini bus,Evening
+290,David,Route 3,Red,Double deck,Afternoon
+291,Michael,Route 3,Blue,Single deck,Evening
+292,John,Route 1,Yellow,Single deck,Evening
+293,Sarah,Route 5,Yellow,Articulated,Afternoon
+294,Michael,Route 1,Orange,Double deck,Evening
+295,Michael,Route 4,Blue,Single deck,Morning
+296,John,Route 4,Red,Articulated,Morning
+297,Michael,Route 1,Green,Articulated,Afternoon
+298,David,Route 3,Green,Single deck,Afternoon
+299,Karen,Route 3,Green,Double deck,Evening
+300,Michael,Route 5,Orange,Single deck,Evening
+301,John,Route 2,Orange,Articulated,Morning
+302,Michael,Route 2,Blue,Articulated,Morning
+303,Sarah,Route 4,Blue,Single deck,Afternoon
+304,Sarah,Route 1,Red,Mini bus,Morning
+305,Michael,Route 2,Blue,Articulated,Afternoon
+306,John,Route 3,Yellow,Double deck,Evening
+307,John,Route 1,Red,Single deck,Morning
+308,John,Route 5,Orange,Articulated,Morning
+309,Michael,Route 2,Blue,Mini bus,Morning
+310,John,Route 1,Red,Single deck,Afternoon
+311,David,Route 5,Red,Double deck,Evening
+312,Sarah,Route 2,Green,Articulated,Evening
+313,David,Route 2,Green,Double deck,Evening
+314,Sarah,Route 5,Blue,Double deck,Afternoon
+315,David,Route 4,Yellow,Double deck,Evening
+316,Michael,Route 1,Green,Mini bus,Evening
+317,John,Route 3,Green,Double deck,Morning
+318,Sarah,Route 2,Green,Articulated,Morning
+319,David,Route 2,Orange,Mini bus,Afternoon
+320,David,Route 2,Red,Articulated,Evening
+321,Sarah,Route 3,Orange,Double deck,Morning
+322,John,Route 2,Blue,Mini bus,Evening
+323,Sarah,Route 4,Green,Single deck,Evening
+324,John,Route 4,Red,Articulated,Afternoon
+325,Sarah,Route 5,Yellow,Double deck,Evening
+326,Michael,Route 1,Blue,Mini bus,Evening
+327,Michael,Route 5,Green,Articulated,Evening
+328,Karen,Route 2,Blue,Single deck,Evening
+329,Michael,Route 4,Green,Single deck,Morning
+330,David,Route 1,Red,Articulated,Evening
+331,Sarah,Route 2,Blue,Single deck,Morning
+332,John,Route 4,Red,Double deck,Morning
+333,Sarah,Route 5,Yellow,Double deck,Evening
+334,Michael,Route 2,Green,Double deck,Afternoon
+335,Michael,Route 2,Green,Articulated,Morning
+336,John,Route 3,Green,Articulated,Morning
+337,Karen,Route 1,Orange,Articulated,Afternoon
+338,John,Route 1,Orange,Single deck,Morning
+339,John,Route 5,Red,Mini bus,Morning
+340,David,Route 4,Yellow,Double deck,Afternoon
+341,Karen,Route 3,Yellow,Mini bus,Morning
+342,Michael,Route 1,Yellow,Double deck,Morning
+343,John,Route 2,Yellow,Single deck,Evening
+344,John,Route 3,Yellow,Single deck,Morning
+345,Michael,Route 1,Blue,Double deck,Afternoon
+346,Karen,Route 5,Orange,Articulated,Evening
+347,Michael,Route 2,Blue,Single deck,Evening
+348,Michael,Route 5,Blue,Single deck,Evening
+349,Sarah,Route 5,Red,Single deck,Afternoon
+350,Karen,Route 3,Blue,Single deck,Evening
+351,David,Route 4,Orange,Articulated,Morning
+352,Michael,Route 2,Yellow,Double deck,Morning
+353,Sarah,Route 5,Orange,Articulated,Evening
+354,David,Route 5,Orange,Articulated,Evening
+355,Karen,Route 1,Green,Single deck,Afternoon
+356,Michael,Route 2,Green,Single deck,Morning
+357,Michael,Route 3,Yellow,Mini bus,Evening
+358,Sarah,Route 5,Orange,Mini bus,Evening
+359,Karen,Route 4,Yellow,Mini bus,Evening
+360,Sarah,Route 1,Green,Double deck,Evening
+361,John,Route 4,Yellow,Articulated,Afternoon
+362,David,Route 4,Yellow,Single deck,Morning
+363,Michael,Route 5,Yellow,Double deck,Afternoon
+364,David,Route 1,Green,Single deck,Morning
+365,John,Route 4,Blue,Mini bus,Afternoon
+366,David,Route 2,Orange,Single deck,Morning
+367,Michael,Route 3,Yellow,Mini bus,Morning
+368,David,Route 1,Green,Mini bus,Evening
+369,Michael,Route 2,Yellow,Mini bus,Morning
+370,David,Route 2,Red,Double deck,Afternoon
+371,David,Route 2,Blue,Articulated,Morning
+372,Karen,Route 4,Green,Articulated,Morning
+373,John,Route 3,Red,Single deck,Morning
+374,John,Route 5,Green,Single deck,Evening
+375,John,Route 2,Red,Single deck,Morning
+376,David,Route 3,Blue,Mini bus,Afternoon
+377,John,Route 4,Orange,Articulated,Morning
+378,Sarah,Route 2,Orange,Articulated,Evening
+379,Sarah,Route 1,Green,Articulated,Afternoon
+380,Karen,Route 5,Blue,Articulated,Afternoon
+381,John,Route 3,Red,Articulated,Morning
+382,John,Route 4,Orange,Mini bus,Afternoon
+383,Michael,Route 4,Red,Single deck,Morning
+384,Karen,Route 5,Green,Mini bus,Evening
+385,Michael,Route 5,Orange,Articulated,Afternoon
+386,Michael,Route 3,Red,Mini bus,Evening
+387,David,Route 2,Yellow,Mini bus,Evening
+388,David,Route 4,Blue,Articulated,Morning
+389,John,Route 5,Green,Mini bus,Morning
+390,Michael,Route 2,Orange,Articulated,Evening
+391,Karen,Route 2,Green,Articulated,Afternoon
+392,Karen,Route 1,Yellow,Mini bus,Morning
+393,Sarah,Route 2,Red,Double deck,Morning
+394,David,Route 4,Blue,Single deck,Afternoon
+395,John,Route 1,Orange,Single deck,Evening
+396,Sarah,Route 4,Orange,Double deck,Evening
+397,Michael,Route 5,Green,Double deck,Afternoon
+398,Karen,Route 3,Orange,Double deck,Morning
+399,Michael,Route 2,Orange,Mini bus,Afternoon
+400,Michael,Route 5,Blue,Double deck,Evening
+401,Michael,Route 2,Red,Double deck,Afternoon
+402,Karen,Route 3,Yellow,Mini bus,Morning
+403,John,Route 3,Orange,Mini bus,Afternoon
+404,David,Route 3,Yellow,Articulated,Evening
+405,Michael,Route 1,Blue,Articulated,Evening
+406,Michael,Route 2,Yellow,Mini bus,Afternoon
+407,John,Route 5,Blue,Articulated,Afternoon
+408,Karen,Route 2,Green,Single deck,Afternoon
+409,David,Route 2,Orange,Articulated,Morning
+410,John,Route 4,Blue,Mini bus,Afternoon
+411,Karen,Route 3,Yellow,Single deck,Evening
+412,John,Route 5,Blue,Single deck,Evening
+413,Sarah,Route 5,Red,Single deck,Evening
+414,Michael,Route 4,Red,Double deck,Evening
+415,John,Route 1,Green,Articulated,Evening
+416,John,Route 2,Yellow,Articulated,Evening
+417,John,Route 3,Orange,Articulated,Evening
+418,Michael,Route 4,Yellow,Mini bus,Morning
+419,Karen,Route 3,Green,Single deck,Afternoon
+420,Karen,Route 2,Orange,Single deck,Morning
+421,Sarah,Route 2,Blue,Mini bus,Morning
+422,Michael,Route 4,Orange,Articulated,Evening
+423,Michael,Route 5,Green,Mini bus,Evening
+424,John,Route 1,Orange,Single deck,Afternoon
+425,John,Route 4,Red,Single deck,Evening
+426,John,Route 4,Yellow,Single deck,Afternoon
+427,John,Route 5,Blue,Double deck,Afternoon
+428,Michael,Route 4,Red,Mini bus,Evening
+429,Michael,Route 3,Red,Double deck,Evening
+430,Michael,Route 3,Red,Double deck,Evening
+431,John,Route 1,Red,Mini bus,Afternoon
+432,Michael,Route 5,Blue,Single deck,Morning
+433,Karen,Route 3,Red,Articulated,Evening
+434,David,Route 5,Blue,Mini bus,Afternoon
+435,John,Route 1,Yellow,Double deck,Morning
+436,David,Route 2,Orange,Articulated,Morning
+437,Michael,Route 5,Blue,Double deck,Evening
+438,David,Route 4,Yellow,Double deck,Afternoon
+439,Karen,Route 1,Blue,Double deck,Morning
+440,Karen,Route 5,Green,Single deck,Afternoon
+441,David,Route 1,Blue,Double deck,Afternoon
+442,Sarah,Route 2,Orange,Articulated,Afternoon
+443,John,Route 1,Yellow,Single deck,Morning
+444,Michael,Route 1,Orange,Double deck,Morning
+445,John,Route 4,Yellow,Double deck,Evening
+446,Karen,Route 3,Red,Single deck,Morning
+447,Karen,Route 2,Orange,Mini bus,Morning
+448,David,Route 5,Yellow,Single deck,Evening
+449,Michael,Route 5,Yellow,Single deck,Morning
+450,Karen,Route 2,Red,Single deck,Morning
+451,John,Route 5,Green,Mini bus,Evening
+452,Michael,Route 2,Orange,Single deck,Morning
+453,David,Route 1,Red,Double deck,Afternoon
+454,John,Route 3,Blue,Articulated,Morning
+455,David,Route 3,Yellow,Articulated,Morning
+456,Karen,Route 4,Blue,Double deck,Afternoon
+457,Karen,Route 2,Yellow,Mini bus,Morning
+458,Sarah,Route 1,Yellow,Double deck,Afternoon
+459,John,Route 4,Green,Single deck,Evening
+460,Sarah,Route 3,Orange,Articulated,Afternoon
+461,John,Route 1,Red,Mini bus,Morning
+462,Sarah,Route 1,Orange,Articulated,Evening
+463,Sarah,Route 2,Yellow,Double deck,Evening
+464,Sarah,Route 4,Blue,Double deck,Evening
+465,John,Route 4,Yellow,Mini bus,Afternoon
+466,John,Route 2,Blue,Mini bus,Afternoon
+467,John,Route 1,Yellow,Single deck,Evening
+468,David,Route 3,Green,Double deck,Morning
+469,Michael,Route 1,Red,Mini bus,Morning
+470,Michael,Route 3,Red,Mini bus,Morning
+471,Karen,Route 5,Green,Double deck,Evening
+472,Sarah,Route 5,Yellow,Single deck,Afternoon
+473,David,Route 5,Green,Double deck,Afternoon
+474,Michael,Route 4,Green,Mini bus,Evening
+475,Karen,Route 2,Orange,Double deck,Afternoon
+476,Sarah,Route 3,Orange,Double deck,Morning
+477,Michael,Route 5,Green,Mini bus,Evening
+478,David,Route 4,Orange,Double deck,Evening
+479,David,Route 5,Red,Single deck,Afternoon
+480,Karen,Route 1,Blue,Single deck,Afternoon
+481,John,Route 2,Blue,Single deck,Evening
+482,Sarah,Route 2,Green,Mini bus,Afternoon
+483,Karen,Route 1,Blue,Single deck,Afternoon
+484,Karen,Route 3,Orange,Single deck,Afternoon
+485,John,Route 4,Yellow,Articulated,Evening
+486,Karen,Route 2,Yellow,Mini bus,Morning
+487,Michael,Route 5,Green,Double deck,Afternoon
+488,David,Route 1,Red,Articulated,Afternoon
+489,Michael,Route 4,Green,Mini bus,Morning
+490,Sarah,Route 1,Orange,Mini bus,Evening
+491,Sarah,Route 4,Green,Single deck,Evening
+492,Michael,Route 1,Blue,Single deck,Morning
+493,Michael,Route 2,Red,Single deck,Evening
+494,John,Route 5,Red,Articulated,Evening
+495,David,Route 4,Yellow,Mini bus,Afternoon
+496,John,Route 3,Red,Single deck,Morning
+497,Sarah,Route 3,Yellow,Double deck,Morning
+498,Sarah,Route 2,Blue,Articulated,Afternoon
+499,Sarah,Route 4,Orange,Mini bus,Afternoon
+500,Michael,Route 1,Yellow,Double deck,Evening
+501,David,Route 3,Green,Single deck,Evening
+502,David,Route 2,Blue,Articulated,Evening
+503,Karen,Route 1,Blue,Single deck,Afternoon
+504,John,Route 5,Yellow,Articulated,Morning
+505,David,Route 2,Orange,Mini bus,Afternoon
+506,Sarah,Route 2,Red,Double deck,Evening
+507,Karen,Route 3,Yellow,Double deck,Evening
+508,Sarah,Route 4,Yellow,Double deck,Evening
+509,Sarah,Route 4,Yellow,Articulated,Afternoon
+510,Karen,Route 4,Orange,Single deck,Morning
+511,Michael,Route 5,Red,Articulated,Afternoon
+512,Michael,Route 2,Blue,Double deck,Afternoon
+513,Michael,Route 3,Blue,Mini bus,Evening
+514,Michael,Route 5,Yellow,Double deck,Evening
+515,Michael,Route 2,Blue,Single deck,Evening
+516,David,Route 2,Yellow,Single deck,Morning
+517,David,Route 2,Yellow,Mini bus,Morning
+518,Michael,Route 4,Red,Double deck,Morning
+519,Karen,Route 5,Yellow,Mini bus,Morning
+520,Sarah,Route 5,Red,Single deck,Evening
+521,Sarah,Route 3,Yellow,Single deck,Evening
+522,Michael,Route 4,Blue,Single deck,Evening
+523,David,Route 5,Orange,Mini bus,Morning
+524,Sarah,Route 4,Orange,Articulated,Evening
+525,Karen,Route 1,Blue,Single deck,Evening
+526,David,Route 3,Red,Articulated,Afternoon
+527,Sarah,Route 1,Green,Mini bus,Evening
+528,Sarah,Route 3,Yellow,Single deck,Morning
+529,Karen,Route 3,Blue,Mini bus,Afternoon
+530,Karen,Route 2,Blue,Mini bus,Afternoon
+531,Sarah,Route 1,Blue,Articulated,Morning
+532,Sarah,Route 2,Blue,Single deck,Evening
+533,Sarah,Route 4,Red,Double deck,Morning
+534,John,Route 1,Red,Single deck,Afternoon
+535,Karen,Route 1,Red,Double deck,Evening
+536,Michael,Route 5,Yellow,Single deck,Evening
+537,Michael,Route 5,Red,Articulated,Morning
+538,David,Route 2,Red,Articulated,Evening
+539,Karen,Route 5,Yellow,Articulated,Morning
+540,David,Route 2,Green,Articulated,Afternoon
+541,Michael,Route 3,Green,Double deck,Morning
+542,David,Route 3,Blue,Single deck,Morning
+543,David,Route 1,Orange,Double deck,Evening
+544,Karen,Route 3,Yellow,Double deck,Morning
+545,Karen,Route 5,Green,Single deck,Evening
+546,Karen,Route 2,Yellow,Articulated,Afternoon
+547,Karen,Route 1,Blue,Double deck,Morning
+548,David,Route 4,Red,Double deck,Afternoon
+549,Michael,Route 3,Green,Single deck,Afternoon
+550,Sarah,Route 5,Green,Mini bus,Afternoon
+551,Michael,Route 5,Orange,Articulated,Afternoon
+552,Michael,Route 2,Red,Mini bus,Evening
+553,Michael,Route 3,Red,Double deck,Morning
+554,Michael,Route 2,Green,Mini bus,Morning
+555,David,Route 5,Red,Single deck,Evening
+556,David,Route 5,Red,Single deck,Evening
+557,Michael,Route 3,Green,Mini bus,Morning
+558,Karen,Route 3,Red,Single deck,Afternoon
+559,Sarah,Route 3,Yellow,Double deck,Afternoon
+560,John,Route 2,Orange,Articulated,Afternoon
+561,Sarah,Route 1,Red,Mini bus,Morning
+562,Karen,Route 2,Blue,Single deck,Afternoon
+563,Sarah,Route 1,Orange,Single deck,Afternoon
+564,Sarah,Route 2,Orange,Double deck,Afternoon
+565,David,Route 3,Green,Double deck,Morning
+566,John,Route 4,Yellow,Articulated,Evening
+567,John,Route 3,Red,Double deck,Evening
+568,Karen,Route 3,Green,Double deck,Evening
+569,David,Route 2,Green,Articulated,Morning
+570,Karen,Route 3,Blue,Single deck,Evening
+571,Michael,Route 5,Green,Double deck,Afternoon
+572,Michael,Route 1,Blue,Mini bus,Morning
+573,John,Route 1,Blue,Double deck,Evening
+574,Michael,Route 5,Yellow,Double deck,Morning
+575,Michael,Route 1,Red,Single deck,Afternoon
+576,John,Route 2,Yellow,Articulated,Afternoon
+577,Michael,Route 5,Blue,Articulated,Morning
+578,Sarah,Route 4,Red,Mini bus,Afternoon
+579,Sarah,Route 3,Orange,Single deck,Afternoon
+580,Michael,Route 4,Orange,Double deck,Morning
+581,Sarah,Route 4,Blue,Mini bus,Morning
+582,Karen,Route 4,Yellow,Articulated,Evening
+583,Karen,Route 1,Green,Mini bus,Afternoon
+584,John,Route 5,Blue,Double deck,Morning
+585,Michael,Route 4,Orange,Double deck,Evening
+586,John,Route 4,Green,Double deck,Morning
+587,Michael,Route 4,Yellow,Single deck,Afternoon
+588,Michael,Route 5,Blue,Single deck,Morning
+589,Michael,Route 5,Orange,Mini bus,Afternoon
+590,John,Route 3,Yellow,Single deck,Evening
+591,Michael,Route 2,Blue,Articulated,Afternoon
+592,Karen,Route 2,Green,Double deck,Evening
+593,Karen,Route 5,Yellow,Articulated,Afternoon
+594,John,Route 5,Blue,Mini bus,Evening
+595,Karen,Route 2,Orange,Single deck,Afternoon
+596,John,Route 3,Red,Mini bus,Morning
+597,Michael,Route 1,Green,Articulated,Morning
+598,Sarah,Route 5,Yellow,Double deck,Evening
+599,Michael,Route 3,Green,Articulated,Morning
+600,Sarah,Route 1,Blue,Double deck,Afternoon
+601,Michael,Route 3,Green,Single deck,Afternoon
+602,John,Route 1,Red,Double deck,Afternoon
+603,John,Route 4,Green,Double deck,Morning
+604,John,Route 3,Blue,Single deck,Afternoon
+605,John,Route 5,Green,Single deck,Afternoon
+606,Sarah,Route 4,Red,Single deck,Afternoon
+607,Karen,Route 1,Red,Mini bus,Morning
+608,David,Route 4,Yellow,Articulated,Morning
+609,John,Route 3,Orange,Single deck,Afternoon
+610,David,Route 4,Green,Double deck,Evening
+611,Michael,Route 3,Blue,Articulated,Afternoon
+612,Michael,Route 4,Yellow,Mini bus,Morning
+613,Sarah,Route 5,Green,Single deck,Evening
+614,Michael,Route 3,Red,Double deck,Evening
+615,David,Route 3,Red,Articulated,Evening
+616,Michael,Route 3,Green,Single deck,Afternoon
+617,John,Route 3,Green,Double deck,Afternoon
+618,Karen,Route 1,Red,Mini bus,Afternoon
+619,David,Route 1,Orange,Articulated,Morning
+620,Karen,Route 4,Green,Mini bus,Evening
+621,David,Route 3,Yellow,Mini bus,Afternoon
+622,Sarah,Route 3,Orange,Mini bus,Evening
+623,Karen,Route 5,Blue,Double deck,Morning
+624,Sarah,Route 4,Orange,Double deck,Afternoon
+625,John,Route 3,Red,Mini bus,Evening
+626,Sarah,Route 1,Blue,Single deck,Morning
+627,Michael,Route 1,Red,Single deck,Evening
+628,Michael,Route 4,Yellow,Double deck,Evening
+629,John,Route 1,Yellow,Articulated,Afternoon
+630,David,Route 1,Blue,Mini bus,Evening
+631,Sarah,Route 1,Blue,Articulated,Evening
+632,John,Route 4,Yellow,Double deck,Evening
+633,Sarah,Route 4,Orange,Mini bus,Morning
+634,Michael,Route 4,Green,Articulated,Afternoon
+635,Sarah,Route 3,Blue,Single deck,Afternoon
+636,David,Route 1,Red,Mini bus,Afternoon
+637,John,Route 2,Orange,Mini bus,Evening
+638,Sarah,Route 5,Green,Mini bus,Evening
+639,Karen,Route 4,Green,Articulated,Evening
+640,Michael,Route 4,Blue,Mini bus,Evening
+641,Karen,Route 1,Green,Single deck,Evening
+642,Karen,Route 3,Red,Double deck,Morning
+643,David,Route 3,Green,Double deck,Morning
+644,John,Route 1,Orange,Mini bus,Morning
+645,David,Route 3,Red,Double deck,Morning
+646,David,Route 4,Green,Articulated,Afternoon
+647,Sarah,Route 2,Blue,Single deck,Morning
+648,David,Route 1,Red,Articulated,Morning
+649,Sarah,Route 2,Orange,Mini bus,Evening
+650,Karen,Route 3,Green,Articulated,Afternoon
+651,Karen,Route 4,Red,Double deck,Morning
+652,David,Route 4,Orange,Mini bus,Afternoon
+653,Michael,Route 3,Blue,Articulated,Evening
+654,Karen,Route 3,Yellow,Double deck,Afternoon
+655,Michael,Route 2,Blue,Single deck,Morning
+656,Michael,Route 4,Green,Articulated,Morning
+657,Sarah,Route 5,Green,Mini bus,Afternoon
+658,Michael,Route 2,Blue,Double deck,Afternoon
+659,Sarah,Route 4,Orange,Double deck,Morning
+660,Michael,Route 3,Blue,Double deck,Afternoon
+661,Michael,Route 2,Yellow,Double deck,Afternoon
+662,John,Route 2,Blue,Articulated,Afternoon
+663,John,Route 3,Green,Double deck,Afternoon
+664,Karen,Route 4,Red,Single deck,Evening
+665,David,Route 5,Green,Double deck,Morning
+666,Michael,Route 2,Orange,Single deck,Evening
+667,Karen,Route 2,Yellow,Articulated,Morning
+668,John,Route 5,Red,Articulated,Evening
+669,Michael,Route 5,Blue,Articulated,Evening
+670,David,Route 2,Red,Double deck,Evening
+671,Sarah,Route 3,Red,Mini bus,Afternoon
+672,Karen,Route 1,Yellow,Articulated,Evening
+673,Michael,Route 4,Red,Double deck,Afternoon
+674,Sarah,Route 5,Orange,Single deck,Evening
+675,Karen,Route 4,Yellow,Double deck,Morning
+676,Michael,Route 3,Green,Single deck,Evening
+677,John,Route 1,Yellow,Mini bus,Morning
+678,John,Route 3,Green,Double deck,Evening
+679,Michael,Route 5,Red,Articulated,Afternoon
+680,Karen,Route 5,Orange,Articulated,Afternoon
+681,David,Route 2,Green,Double deck,Evening
+682,David,Route 4,Blue,Single deck,Evening
+683,Karen,Route 2,Green,Double deck,Evening
+684,Karen,Route 4,Red,Double deck,Evening
+685,John,Route 2,Yellow,Mini bus,Evening
+686,Karen,Route 5,Green,Mini bus,Evening
+687,David,Route 2,Yellow,Single deck,Morning
+688,Sarah,Route 1,Green,Mini bus,Evening
+689,Karen,Route 5,Red,Articulated,Afternoon
+690,John,Route 1,Green,Single deck,Afternoon
+691,John,Route 5,Orange,Mini bus,Evening
+692,David,Route 1,Yellow,Articulated,Afternoon
+693,Karen,Route 5,Orange,Articulated,Evening
+694,Karen,Route 4,Yellow,Single deck,Morning
+695,David,Route 1,Orange,Double deck,Evening
+696,John,Route 3,Green,Mini bus,Evening
+697,John,Route 3,Blue,Double deck,Morning
+698,Sarah,Route 1,Yellow,Articulated,Evening
+699,John,Route 4,Red,Double deck,Afternoon
+700,Sarah,Route 5,Blue,Single deck,Evening
+701,John,Route 5,Green,Single deck,Morning
+702,Karen,Route 2,Yellow,Mini bus,Afternoon
+703,David,Route 3,Blue,Single deck,Evening
+704,John,Route 4,Orange,Single deck,Afternoon
+705,David,Route 1,Red,Single deck,Morning
+706,Karen,Route 1,Orange,Mini bus,Evening
+707,Karen,Route 1,Yellow,Mini bus,Morning
+708,David,Route 2,Orange,Mini bus,Afternoon
+709,David,Route 1,Orange,Mini bus,Morning
+710,John,Route 1,Blue,Mini bus,Evening
+711,David,Route 4,Red,Double deck,Morning
+712,Sarah,Route 1,Green,Single deck,Evening
+713,John,Route 4,Red,Single deck,Afternoon
+714,Karen,Route 3,Yellow,Double deck,Morning
+715,David,Route 2,Blue,Single deck,Morning
+716,Karen,Route 3,Orange,Single deck,Morning
+717,Sarah,Route 1,Yellow,Single deck,Evening
+718,Michael,Route 1,Blue,Double deck,Afternoon
+719,Karen,Route 4,Orange,Articulated,Afternoon
+720,David,Route 2,Red,Mini bus,Afternoon
+721,Karen,Route 5,Red,Single deck,Afternoon
+722,Karen,Route 1,Orange,Double deck,Morning
+723,Michael,Route 1,Green,Double deck,Morning
+724,John,Route 3,Blue,Mini bus,Evening
+725,Michael,Route 1,Yellow,Mini bus,Afternoon
+726,David,Route 5,Yellow,Articulated,Morning
+727,Michael,Route 1,Yellow,Mini bus,Evening
+728,David,Route 5,Yellow,Double deck,Afternoon
+729,Michael,Route 4,Orange,Mini bus,Evening
+730,Karen,Route 1,Blue,Articulated,Morning
+731,Michael,Route 5,Orange,Articulated,Morning
+732,Karen,Route 3,Blue,Single deck,Afternoon
+733,David,Route 1,Yellow,Double deck,Morning
+734,Karen,Route 5,Yellow,Mini bus,Morning
+735,John,Route 3,Orange,Mini bus,Evening
+736,Michael,Route 3,Orange,Mini bus,Morning
+737,Michael,Route 2,Green,Articulated,Evening
+738,Karen,Route 2,Orange,Mini bus,Evening
+739,John,Route 4,Yellow,Mini bus,Morning
+740,Karen,Route 4,Red,Double deck,Afternoon
+741,Karen,Route 5,Blue,Double deck,Evening
+742,Karen,Route 5,Red,Articulated,Evening
+743,David,Route 4,Orange,Articulated,Morning
+744,Karen,Route 3,Blue,Mini bus,Afternoon
+745,Sarah,Route 4,Orange,Articulated,Morning
+746,Karen,Route 1,Orange,Mini bus,Morning
+747,David,Route 5,Yellow,Double deck,Morning
+748,Karen,Route 5,Green,Articulated,Morning
+749,John,Route 5,Yellow,Single deck,Afternoon
+750,Sarah,Route 5,Yellow,Double deck,Morning
+751,Michael,Route 1,Orange,Single deck,Morning
+752,Sarah,Route 5,Blue,Single deck,Morning
+753,Sarah,Route 3,Orange,Single deck,Morning
+754,Karen,Route 3,Green,Articulated,Evening
+755,David,Route 2,Red,Double deck,Morning
+756,John,Route 1,Yellow,Articulated,Afternoon
+757,Karen,Route 3,Green,Articulated,Morning
+758,John,Route 1,Orange,Mini bus,Morning
+759,David,Route 4,Red,Double deck,Morning
+760,Michael,Route 3,Blue,Double deck,Evening
+761,Karen,Route 2,Green,Articulated,Afternoon
+762,Michael,Route 2,Red,Mini bus,Morning
+763,David,Route 3,Yellow,Articulated,Afternoon
+764,Sarah,Route 2,Green,Double deck,Evening
+765,Michael,Route 1,Orange,Articulated,Afternoon
+766,David,Route 2,Red,Articulated,Evening
+767,Karen,Route 3,Green,Articulated,Evening
+768,Sarah,Route 2,Yellow,Double deck,Evening
+769,Sarah,Route 3,Green,Double deck,Afternoon
+770,John,Route 5,Green,Double deck,Afternoon
+771,Sarah,Route 2,Orange,Double deck,Evening
+772,John,Route 1,Blue,Double deck,Evening
+773,David,Route 1,Orange,Double deck,Afternoon
+774,Karen,Route 5,Orange,Single deck,Afternoon
+775,John,Route 1,Red,Articulated,Evening
+776,Sarah,Route 2,Yellow,Mini bus,Evening
+777,John,Route 2,Yellow,Mini bus,Afternoon
+778,John,Route 2,Blue,Double deck,Evening
+779,John,Route 2,Red,Articulated,Evening
+780,David,Route 3,Blue,Double deck,Afternoon
+781,Sarah,Route 5,Yellow,Mini bus,Evening
+782,John,Route 3,Green,Double deck,Afternoon
+783,Michael,Route 4,Green,Articulated,Morning
+784,John,Route 5,Red,Single deck,Morning
+785,Sarah,Route 4,Blue,Double deck,Evening
+786,Sarah,Route 3,Yellow,Double deck,Morning
+787,John,Route 3,Green,Double deck,Evening
+788,David,Route 1,Green,Articulated,Evening
+789,John,Route 4,Orange,Double deck,Morning
+790,Sarah,Route 2,Green,Articulated,Morning
+791,Karen,Route 4,Yellow,Mini bus,Afternoon
+792,David,Route 2,Red,Articulated,Afternoon
+793,Karen,Route 3,Red,Single deck,Morning
+794,Michael,Route 5,Yellow,Double deck,Afternoon
+795,John,Route 1,Red,Mini bus,Afternoon
+796,Karen,Route 3,Orange,Single deck,Morning
+797,Michael,Route 1,Red,Double deck,Evening
+798,Sarah,Route 3,Yellow,Single deck,Evening
+799,David,Route 5,Orange,Articulated,Morning
+800,Michael,Route 1,Yellow,Articulated,Afternoon
+801,John,Route 1,Blue,Single deck,Afternoon
+802,Karen,Route 2,Yellow,Single deck,Evening
+803,David,Route 2,Yellow,Double deck,Evening
+804,Sarah,Route 5,Blue,Mini bus,Afternoon
+805,Karen,Route 1,Orange,Mini bus,Afternoon
+806,Sarah,Route 1,Yellow,Mini bus,Morning
+807,John,Route 1,Yellow,Articulated,Morning
+808,David,Route 4,Red,Single deck,Morning
+809,David,Route 4,Red,Single deck,Evening
+810,Michael,Route 4,Orange,Single deck,Afternoon
+811,Karen,Route 2,Orange,Articulated,Morning
+812,John,Route 1,Green,Mini bus,Evening
+813,David,Route 2,Red,Single deck,Evening
+814,John,Route 4,Orange,Mini bus,Morning
+815,Karen,Route 4,Green,Double deck,Evening
+816,Michael,Route 2,Red,Articulated,Afternoon
+817,Karen,Route 2,Blue,Single deck,Afternoon
+818,David,Route 1,Yellow,Single deck,Afternoon
+819,John,Route 2,Yellow,Articulated,Morning
+820,John,Route 2,Green,Mini bus,Morning
+821,John,Route 2,Orange,Double deck,Morning
+822,Karen,Route 4,Green,Mini bus,Afternoon
+823,Sarah,Route 2,Red,Mini bus,Evening
+824,Sarah,Route 5,Yellow,Mini bus,Morning
+825,Sarah,Route 1,Red,Single deck,Evening
+826,John,Route 2,Red,Double deck,Morning
+827,Michael,Route 3,Green,Articulated,Morning
+828,John,Route 5,Green,Articulated,Morning
+829,Karen,Route 2,Orange,Single deck,Morning
+830,John,Route 5,Red,Double deck,Morning
+831,Sarah,Route 3,Green,Single deck,Morning
+832,David,Route 2,Yellow,Articulated,Afternoon
+833,John,Route 5,Orange,Single deck,Morning
+834,Karen,Route 4,Yellow,Double deck,Afternoon
+835,John,Route 3,Yellow,Single deck,Afternoon
+836,Sarah,Route 1,Blue,Mini bus,Morning
+837,David,Route 2,Yellow,Articulated,Evening
+838,Karen,Route 5,Red,Double deck,Evening
+839,Michael,Route 4,Blue,Articulated,Morning
+840,Karen,Route 1,Orange,Articulated,Afternoon
+841,Michael,Route 3,Blue,Double deck,Morning
+842,Sarah,Route 1,Orange,Single deck,Evening
+843,John,Route 5,Blue,Double deck,Morning
+844,Karen,Route 1,Blue,Articulated,Morning
+845,Karen,Route 1,Blue,Articulated,Morning
+846,David,Route 4,Red,Double deck,Afternoon
+847,David,Route 5,Yellow,Double deck,Afternoon
+848,John,Route 5,Yellow,Double deck,Morning
+849,Karen,Route 5,Green,Double deck,Afternoon
+850,Karen,Route 5,Green,Mini bus,Morning
+851,Michael,Route 2,Yellow,Articulated,Morning
+852,David,Route 4,Red,Double deck,Afternoon
+853,Michael,Route 4,Yellow,Articulated,Afternoon
+854,David,Route 1,Yellow,Mini bus,Afternoon
+855,Karen,Route 3,Orange,Double deck,Evening
+856,Sarah,Route 5,Green,Single deck,Evening
+857,John,Route 5,Yellow,Single deck,Afternoon
+858,John,Route 3,Orange,Mini bus,Afternoon
+859,David,Route 4,Green,Mini bus,Morning
+860,Sarah,Route 3,Blue,Mini bus,Afternoon
+861,Michael,Route 4,Blue,Double deck,Afternoon
+862,John,Route 1,Red,Mini bus,Evening
+863,David,Route 5,Green,Mini bus,Morning
+864,Michael,Route 5,Red,Double deck,Evening
+865,Karen,Route 5,Green,Articulated,Evening
+866,Karen,Route 3,Green,Single deck,Evening
+867,Karen,Route 1,Yellow,Articulated,Afternoon
+868,John,Route 5,Red,Mini bus,Afternoon
+869,David,Route 3,Orange,Double deck,Afternoon
+870,David,Route 5,Red,Double deck,Afternoon
+871,David,Route 5,Blue,Mini bus,Morning
+872,John,Route 1,Red,Mini bus,Evening
+873,Sarah,Route 1,Red,Articulated,Morning
+874,David,Route 1,Green,Articulated,Afternoon
+875,Michael,Route 2,Red,Mini bus,Evening
+876,Karen,Route 5,Yellow,Single deck,Morning
+877,Karen,Route 4,Green,Double deck,Evening
+878,Sarah,Route 2,Orange,Single deck,Evening
+879,John,Route 4,Orange,Single deck,Afternoon
+880,Sarah,Route 4,Green,Articulated,Evening
+881,John,Route 4,Orange,Mini bus,Evening
+882,Michael,Route 4,Green,Articulated,Morning
+883,Sarah,Route 4,Green,Mini bus,Afternoon
+884,Sarah,Route 4,Blue,Articulated,Afternoon
+885,David,Route 5,Yellow,Mini bus,Morning
+886,John,Route 5,Red,Double deck,Evening
+887,David,Route 2,Blue,Double deck,Afternoon
+888,Michael,Route 2,Orange,Mini bus,Afternoon
+889,John,Route 5,Red,Articulated,Morning
+890,Karen,Route 2,Blue,Single deck,Evening
+891,Karen,Route 4,Red,Single deck,Evening
+892,John,Route 5,Blue,Mini bus,Afternoon
+893,David,Route 2,Yellow,Double deck,Morning
+894,Michael,Route 1,Orange,Articulated,Morning
+895,David,Route 5,Blue,Double deck,Evening
+896,Sarah,Route 5,Green,Articulated,Afternoon
+897,Sarah,Route 4,Green,Mini bus,Evening
+898,John,Route 1,Yellow,Double deck,Evening
+899,Sarah,Route 1,Red,Articulated,Afternoon
+900,David,Route 5,Blue,Double deck,Afternoon
+901,John,Route 5,Orange,Double deck,Evening
+902,John,Route 5,Yellow,Mini bus,Morning
+903,David,Route 5,Yellow,Mini bus,Evening
+904,John,Route 2,Yellow,Double deck,Evening
+905,John,Route 4,Green,Double deck,Afternoon
+906,Karen,Route 1,Blue,Double deck,Morning
+907,Michael,Route 1,Yellow,Single deck,Morning
+908,Sarah,Route 3,Yellow,Mini bus,Evening
+909,Sarah,Route 2,Red,Mini bus,Evening
+910,David,Route 1,Green,Double deck,Morning
+911,John,Route 1,Orange,Single deck,Evening
+912,Sarah,Route 2,Blue,Articulated,Afternoon
+913,Michael,Route 3,Orange,Single deck,Afternoon
+914,Sarah,Route 1,Green,Single deck,Evening
+915,Sarah,Route 3,Red,Articulated,Evening
+916,David,Route 2,Yellow,Mini bus,Afternoon
+917,Karen,Route 3,Blue,Double deck,Evening
+918,John,Route 5,Red,Double deck,Morning
+919,David,Route 1,Orange,Double deck,Morning
+920,David,Route 3,Blue,Double deck,Morning
+921,David,Route 1,Blue,Single deck,Evening
+922,David,Route 2,Yellow,Mini bus,Evening
+923,Sarah,Route 3,Yellow,Mini bus,Afternoon
+924,Sarah,Route 1,Green,Mini bus,Evening
+925,Sarah,Route 3,Blue,Double deck,Afternoon
+926,Sarah,Route 2,Red,Mini bus,Afternoon
+927,Karen,Route 2,Green,Single deck,Evening
+928,David,Route 4,Blue,Single deck,Evening
+929,David,Route 2,Red,Single deck,Morning
+930,David,Route 3,Green,Single deck,Morning
+931,John,Route 3,Blue,Mini bus,Afternoon
+932,John,Route 5,Red,Articulated,Evening
+933,Karen,Route 5,Yellow,Articulated,Evening
+934,David,Route 3,Orange,Articulated,Afternoon
+935,Karen,Route 4,Blue,Articulated,Morning
+936,Michael,Route 5,Green,Articulated,Morning
+937,Karen,Route 3,Orange,Articulated,Afternoon
+938,David,Route 1,Red,Single deck,Evening
+939,Michael,Route 4,Blue,Double deck,Evening
+940,David,Route 4,Yellow,Double deck,Evening
+941,Michael,Route 1,Yellow,Double deck,Afternoon
+942,Michael,Route 1,Orange,Double deck,Afternoon
+943,Michael,Route 3,Yellow,Double deck,Evening
+944,John,Route 4,Red,Double deck,Morning
+945,John,Route 4,Orange,Single deck,Afternoon
+946,John,Route 2,Yellow,Single deck,Morning
+947,David,Route 2,Orange,Double deck,Evening
+948,Karen,Route 3,Green,Articulated,Afternoon
+949,Michael,Route 3,Orange,Articulated,Afternoon
+950,Michael,Route 4,Yellow,Single deck,Morning
+951,Michael,Route 3,Blue,Articulated,Afternoon
+952,Karen,Route 3,Green,Double deck,Evening
+953,David,Route 1,Blue,Single deck,Evening
+954,Karen,Route 1,Red,Mini bus,Morning
+955,Karen,Route 2,Yellow,Mini bus,Evening
+956,Sarah,Route 2,Orange,Articulated,Evening
+957,Michael,Route 3,Blue,Mini bus,Afternoon
+958,John,Route 3,Green,Double deck,Morning
+959,John,Route 5,Yellow,Mini bus,Morning
+960,Sarah,Route 5,Blue,Double deck,Afternoon
+961,Michael,Route 1,Orange,Mini bus,Evening
+962,Michael,Route 4,Green,Double deck,Evening
+963,John,Route 5,Red,Mini bus,Morning
+964,Karen,Route 5,Yellow,Articulated,Morning
+965,John,Route 3,Red,Articulated,Afternoon
+966,Sarah,Route 5,Yellow,Articulated,Morning
+967,Michael,Route 1,Orange,Articulated,Evening
+968,Sarah,Route 5,Red,Articulated,Evening
+969,Karen,Route 1,Green,Single deck,Evening
+970,David,Route 2,Orange,Mini bus,Afternoon
+971,John,Route 2,Green,Single deck,Evening
+972,David,Route 4,Green,Mini bus,Afternoon
+973,John,Route 3,Red,Double deck,Morning
+974,Michael,Route 4,Yellow,Articulated,Morning
+975,Sarah,Route 3,Red,Mini bus,Evening
+976,David,Route 5,Orange,Mini bus,Afternoon
+977,Michael,Route 2,Blue,Mini bus,Afternoon
+978,John,Route 1,Yellow,Articulated,Morning
+979,Sarah,Route 1,Yellow,Single deck,Morning
+980,John,Route 1,Green,Double deck,Evening
+981,John,Route 4,Blue,Articulated,Morning
+982,Sarah,Route 5,Yellow,Double deck,Evening
+983,David,Route 5,Blue,Single deck,Evening
+984,Karen,Route 3,Orange,Articulated,Evening
+985,Sarah,Route 4,Green,Single deck,Afternoon
+986,Michael,Route 2,Red,Double deck,Afternoon
+987,Michael,Route 2,Blue,Double deck,Morning
+988,Michael,Route 2,Red,Articulated,Afternoon
+989,David,Route 1,Yellow,Articulated,Afternoon
+990,David,Route 5,Red,Mini bus,Morning
+991,Michael,Route 1,Green,Mini bus,Afternoon
+992,Sarah,Route 2,Green,Mini bus,Afternoon
+993,Karen,Route 1,Yellow,Single deck,Evening
+994,David,Route 4,Yellow,Mini bus,Afternoon
+995,Michael,Route 3,Red,Double deck,Afternoon
+996,Michael,Route 3,Green,Single deck,Afternoon
+997,John,Route 2,Green,Double deck,Afternoon
+998,David,Route 1,Red,Single deck,Morning
+999,David,Route 3,Green,Single deck,Afternoon
+1000,Karen,Route 3,Yellow,Articulated,Afternoon
